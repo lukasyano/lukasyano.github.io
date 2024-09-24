@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2ND Awesome Site Title</title>
+    <link>https://lukasyano.github.io/</link>
+    <description>Recent content on 2ND Awesome Site Title</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Sep 2024 14:22:58 +0300</lastBuildDate>
+    <atom:link href="https://lukasyano.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tuesday Lobby Post</title>
+      <link>https://lukasyano.github.io/post/tuesdaypost/</link>
+      <pubDate>Tue, 24 Sep 2024 14:22:58 +0300</pubDate>
+      <guid>https://lukasyano.github.io/post/tuesdaypost/</guid>
+      <description>&lt;p&gt;Sveiki antradieniniai interneto entuziastai!&lt;/p&gt;&#xA;&lt;p&gt;Pokolkas šiame tinklapyje nebus naudingos informacijos, sorry&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
