@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2ND Awesome Site Title</title>
+    <title>2ND Test new title</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on 2ND Awesome Site Title</description>
+    <description>Recent content on 2ND Test new title</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Sep 2024 14:22:58 +0300</lastBuildDate>
